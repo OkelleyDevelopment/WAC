@@ -1,4 +1,10 @@
-# Project Name: WAC - Workshop in A Container
+#
+#__        __   _      ____ 
+#\ \      / /  / \    / ___|
+# \ \ /\ / /  / _ \  | |    
+#  \ V  V /_ / ___ \ | |___ 
+#   \_/\_/(_)_/   \_(_)____|
+#                           
 # Author: Nicholas O'Kelley
 # Date: Jun 13, 2021
 # Last updated: 2021-08-09
